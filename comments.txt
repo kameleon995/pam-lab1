@@ -1,0 +1,7 @@
+zad1: 
+Jedyną wartą uwagi linią jest linia 11 - tam tworzony jest nowy obiekt, który zawiera wszystkie właściwości "user" oraz dodaną właściwość "gender". 
+
+zad2: 
+Wszystkie wartości, które jest łatwo obliczyć w jednej linii są obliczane w momencie wyświetlania. Wartość maksymalna została wyliczona za pomocą pętli foreach. 
+
+zad3: 
