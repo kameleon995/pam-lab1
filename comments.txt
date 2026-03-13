@@ -1,7 +1,12 @@
-zad1: 
+zad1: (dodać drugiego użytkownika i wrzucić ich w listę)
 Jedyną wartą uwagi linią jest linia 11 - tam tworzony jest nowy obiekt, który zawiera wszystkie właściwości "user" oraz dodaną właściwość "gender". 
 
-zad2: 
+zad2: (dodać funkcję findMax)
 Wszystkie wartości, które jest łatwo obliczyć w jednej linii są obliczane w momencie wyświetlania. Wartość maksymalna została wyliczona za pomocą pętli foreach. 
 
-zad3: 
+zad3: (dodać funkcję wyświetlającą listę)
+Zamiast funkcji map() wyświetlanie zaimplementowane jest za pomocą forEach(). Ponadto dla zmniejszenia ilości kodu nie jest wykonywane porównanie ważności elementu listy, tylko wykorzystywana jest sama wartość binarna właściwości. 
+
+
+
+todo: rozszerzenia zadania
