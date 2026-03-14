@@ -19,4 +19,7 @@ Do programu zostało dodane wypisywanie listy filmów sci-fi z wysokimi ocenami.
 zad7: 
 Dodana została funkcja wypisująca dane naprawy w standardowym formacie. W trakcie wykonywania zadania wystąpił problem z użyciem funkcji z biblioteki "react". Mimo zgłębienia pochodzenia błędu nie udało się znaleźć rozwiązania. 
 
+zad8: 
+W programie sprawdzany jest stan zaliczenia, ale nie jest zapisywany jako zmienna binarna, tylko jako tekst z powodu konieczności użycia if...else lub operatora potrójnego do wygenerowania wyniku - zapisanie jako true/false byłoby bardzo niewydajne w tym przypadku. W związku z tym, przy wypisaniu wyniku sprawdzna jest poprawność stanu zaliczenia i w przypadku nieprawidłowości jest wyświetlana odpowiednia informacja. 
+
 todo: rozszerzenia zadania
