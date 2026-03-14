@@ -7,6 +7,7 @@ Wszystkie wartości, które jest łatwo obliczyć w jednej linii są obliczane w
 zad3: (dodać funkcję wyświetlającą listę)
 Zamiast funkcji map() wyświetlanie zaimplementowane jest za pomocą forEach(). Ponadto dla zmniejszenia ilości kodu nie jest wykonywane porównanie ważności elementu listy, tylko wykorzystywana jest sama wartość binarna właściwości. 
 
-
+zad4: 
+Język zapisu typu dnia został zmieniony na angielski, aby zunifikować pisownię. Ponadto, został dodany dodatkowy warunek - posiadanie długopisu, ponieważ nie ma sensu zabieranie notatnika, jeśli nie ma się czym w nim pisać. 
 
 todo: rozszerzenia zadania
