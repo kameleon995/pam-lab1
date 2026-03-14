@@ -22,4 +22,7 @@ Dodana została funkcja wypisująca dane naprawy w standardowym formacie. W trak
 zad8: 
 W programie sprawdzany jest stan zaliczenia, ale nie jest zapisywany jako zmienna binarna, tylko jako tekst z powodu konieczności użycia if...else lub operatora potrójnego do wygenerowania wyniku - zapisanie jako true/false byłoby bardzo niewydajne w tym przypadku. W związku z tym, przy wypisaniu wyniku sprawdzna jest poprawność stanu zaliczenia i w przypadku nieprawidłowości jest wyświetlana odpowiednia informacja. 
 
+zad9: 
+Program wyświetla ceny sformatowane tak, aby zawsze zawierały dwa miejsca po przecinku. Ponadto, została stworzona funkcja wypisująca zawartość koszyka. 
+
 todo: rozszerzenia zadania
