@@ -16,4 +16,7 @@ Do programu została dodana numeracja zadań oraz wyświetlanie ilości zadań n
 zad6: 
 Do programu zostało dodane wypisywanie listy filmów sci-fi z wysokimi ocenami. 
 
+zad7: 
+Dodana została funkcja wypisująca dane naprawy w standardowym formacie. W trakcie wykonywania zadania wystąpił problem z użyciem funkcji z biblioteki "react". Mimo zgłębienia pochodzenia błędu nie udało się znaleźć rozwiązania. 
+
 todo: rozszerzenia zadania
