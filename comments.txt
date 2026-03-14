@@ -10,4 +10,7 @@ Zamiast funkcji map() wyświetlanie zaimplementowane jest za pomocą forEach(). 
 zad4: 
 Język zapisu typu dnia został zmieniony na angielski, aby zunifikować pisownię. Ponadto, został dodany dodatkowy warunek - posiadanie długopisu, ponieważ nie ma sensu zabieranie notatnika, jeśli nie ma się czym w nim pisać. 
 
+zad5: 
+Do programu została dodana numeracja zadań oraz wyświetlanie ilości zadań na liście. 
+
 todo: rozszerzenia zadania
