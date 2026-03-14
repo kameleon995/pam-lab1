@@ -13,4 +13,7 @@ Język zapisu typu dnia został zmieniony na angielski, aby zunifikować pisowni
 zad5: 
 Do programu została dodana numeracja zadań oraz wyświetlanie ilości zadań na liście. 
 
+zad6: 
+Do programu zostało dodane wypisywanie listy filmów sci-fi z wysokimi ocenami. 
+
 todo: rozszerzenia zadania
